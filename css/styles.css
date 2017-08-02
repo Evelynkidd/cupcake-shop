@@ -1,3 +1,6 @@
+body {
+  background-color: lightgreen;
+}
 h1.title {
   font-family: fantasy;
   color: blue;
@@ -6,4 +9,10 @@ h1.title {
 .flashy {
   color: red;
   font-style: italic;
+}
+.best {
+  color: yellow;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: sans-serif;
 }
